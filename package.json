@@ -1,0 +1,19 @@
+{
+  "name": "game-roles",
+  "version": "0.0.1",
+  "description": "Give a role when a user play a game",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "keywords": [
+    "Game",
+    "Roles",
+    "bot",
+    "discord",
+    "Playing",
+    "Role"
+  ],
+  "author": "Raymondg",
+  "license": "ISC"
+}
